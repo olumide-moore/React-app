@@ -41,3 +41,13 @@ or
 `npm i bootstrap@5.2.3` (to install a specific version)
 
 https://youtu.be/SqcY0GlETPk?si=3GeurUXVQEWXpqYl
+
+
+##
+Use React Dev Tools to inspect the React components and their states. This is a browser extension that helps you to debug the React components and their states. You can see the props, state, and other details of the components using this tool.
+
+
+## Shortcut to generate component template on creation
+Install the ES7 React/Redux/GraphQL/React-Native snippets extension in VS Code. 
+Then after creating a component tsx file, use this command:
+`rafce` (React Arrow Function Component with export)
